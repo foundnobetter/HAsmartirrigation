@@ -46,7 +46,7 @@
   },
   "calcmodules": {
     "pyeto": {
-      "description": "Die Berechnung der Verunstungsrate basiert auf der FAO56-Formel aus der PyETO-Bibliothek"
+      "description": "Die Berechnung der Verdunstungsrate basiert auf der FAO56-Formel aus der PyETO-Bibliothek"
     },
     "static": {
       "description": "Modul mit einer statisch konfigurierbaren Verdunstungsrate."
